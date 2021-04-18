@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pySilos", "pySilos.csproj", "{6C598062-6896-4A04-AE69-52BC7E0F0CAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C598062-6896-4A04-AE69-52BC7E0F0CAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C598062-6896-4A04-AE69-52BC7E0F0CAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C598062-6896-4A04-AE69-52BC7E0F0CAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C598062-6896-4A04-AE69-52BC7E0F0CAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19EC178B-A7FF-4268-BDD5-2F0B80AA37F6}
+	EndGlobalSection
+EndGlobal
